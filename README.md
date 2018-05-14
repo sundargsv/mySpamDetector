@@ -7,4 +7,4 @@ Download the dataset here:
 In this method I have extracted a feature by just doing the word count - frequency calculation
 
 Find mySpamDetectorV2.0 where I have tried to extract the features using CountVectorizer, TF-IDF method.
-    
+    https://github.com/sundargsv/mySpamDetectorV2.0
